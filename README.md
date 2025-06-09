@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rickens Walter Otieno
-- 👀 I’m interested in Data Science
+- 👀 I’m interested in Data
 - 🌱 I’m currently learning Python for Stock Market Analytics
 - 💞️ I’m looking to collaborate on trading model deployment
 - 📫 How to reach me rickensotieno@gmail.com
