@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://yourwebsite.com"><img alt="Website" src="https://img.shields.io/badge/Website-000?style=for-the-badge&logo=Google-Chrome&logoColor=white" /></a>
-  <a href="[https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/otieno-walter-096370261/)"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/otieno-walter-096370261/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:youremail@example.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
